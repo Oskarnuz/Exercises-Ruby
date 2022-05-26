@@ -7,6 +7,7 @@ Adivina el número
 5. Si no son iguales imprimir "Lo siento, intenta nuevamente"
 =end
 
+
 print "Adivina el número que estoy pensando: "
 
 number = rand(1..5)
