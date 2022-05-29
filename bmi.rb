@@ -1,10 +1,13 @@
 =begin
-Programa par acalcular el IMC
-1. Solicitar al usuario que ingrese el peso y guardarlo en una variable
-2. Solicitar al usario que ingrese l aaltura y guardarla en una variable
-3. Calcular el BMI dividiendo el peso entre la altura al cuadrado
-4. Imprimir el valor del IMC
+Escribe un programa que le pida al usuario su peso y su altura para calcular su BMI. Por ejemplo:
+1. Solicitar al usuario su peso y guardarla en una variable
+2. Solicitar al usuario su altura y guardarla en una variable
+3. Declarar una variable "bmi", donde se realiza la operacion del valor del peso dividido entre el valor de la
+    altura elevado al cuadrado
+4. Imprimir el valor del "bmi"
+
 =end
+
 
 
 print "Ingresa tu peso: "
